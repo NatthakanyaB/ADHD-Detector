@@ -21,13 +21,12 @@ all_classes = ["ADHD","Normal"]
 sample_imagesaxial = {
         "Normal Axial sample" : "Sample/Normal Axial sample.png",
         "ADHD Axial sample": "Sample/ADHD Axial sample.PNG",}
-sample_imagessagittal =
-         {"Normal Sagittal sample" : "Sample/Normal Sagittal sample.png",
+sample_imagessagittal = {
+         "Normal Sagittal sample" : "Sample/Normal Sagittal sample.png",
         "ADHD Sagittal sample": "Sample/ADHD sagittal sample.PNG",}
-sample_imagescoronal =
-       { "ADHD Coronal sample": "Sample/ADHD Coronal sample.PNG",
-        "Normal coronal sample" : "Sample/Normal coronal sample.png",
-}
+sample_imagescoronal = {
+        "ADHD Coronal sample": "Sample/ADHD Coronal sample.PNG",
+        "Normal coronal sample" : "Sample/Normal coronal sample.png", }
 
 # ฟังก์ชันสำหรับโหลดโมเดล
 @st.cache_resource
