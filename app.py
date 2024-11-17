@@ -58,15 +58,15 @@ def load_model(model_path):
 
 @st.cache_resource
 def load_modelaxial():
-    return load_model('Axial_model_.pkl')
+    return load_model('./Axial_model_.pkl')
 
 @st.cache_resource
 def load_modelcoronal():
-    return load_model('Coronal_model_.pkl')
+    return load_model('./Coronal_model_.pkl')
 
 @st.cache_resource
 def load_modelsagittal():
-    return load_model('Sagittal_model_.pkl')
+    return load_model('./Sagittal_model_.pkl')
 
 
 # ฟังก์ชันสำหรับแปลงภาพ
