@@ -9,10 +9,10 @@ Original file is located at
 
 import streamlit as st
 import os
-from torchvision import models
-import torch
-import torch.nn as nn
-from torchvision.transforms import transforms
+! pip install fastbook
+import fastbook
+fastbook.setup_book()
+from fastbook import *
 from PIL import Image
 import pandas as pd
 # รายการคลาส
