@@ -11,5 +11,5 @@ This model can predict the difference between the ADHD brain and the normal brai
 - Using the FastAI library to train
 - Using accuracy for the metrics to check the performance of the model
 # Links
-- For further information about the model (Medium blog in Thai):
-- Try the model (Streamlit): https://adhd-detector-enhjts2povdcwcmtk6txtu.streamlit.app/
+- For further information about the model (Medium blog in Thai): https://medium.com/@natthakanyabpin/adhd-detector-70ed08a4f14d
+- Try the model (Streamlit): https://adhd-detector-wqwpuct5dzwbsufduqyqfv.streamlit.app/
