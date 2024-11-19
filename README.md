@@ -1,4 +1,4 @@
-# AiBxDarun Image Classification: ADHD-Detector
+# AIBxDarun Image Classification: ADHD-Detector
 The Image classification model that detects ADHD in the fMRI picture of the brain.
 # Feature of this model
 This model can predict the difference between the ADHD brain and the normal brain.
