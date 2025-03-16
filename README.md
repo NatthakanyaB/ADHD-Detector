@@ -13,3 +13,5 @@ This model can predict the difference between the ADHD brain and the normal brai
 # Links
 - For further information about the model (Medium blog in Thai): https://medium.com/@natthakanyabpin/adhd-detector-70ed08a4f14d
 - Try the model (Streamlit): https://adhd-detector-wqwpuct5dzwbsufduqyqfv.streamlit.app/
+----------------------------------------------------------------------------------------------------------------
+This model was designed as a learning tool for machine learning. Detecting ADHD involves many factors beyond just images.
