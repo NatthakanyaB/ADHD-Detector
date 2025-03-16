@@ -1,5 +1,5 @@
 # AIBxDarun Image Classification: ADHD-Detector
-The Image classification model that detects ADHD in the fMRI picture of the brain.
+The Image classification model that detects ADHD in the fMRI picture of the brain in 3 sides: Axial, Coronal, and sagittal.
 # Feature of this model
 This model can predict the difference between the ADHD brain and the normal brain.
 # Dataset that used to train this model
@@ -7,7 +7,7 @@ This model can predict the difference between the ADHD brain and the normal brai
 - Normal brain fMRI data:https://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network 
 - Data from each website were collected for the dataset, then separate data into 50% to the training dataset, 25% to the testing set, and 25% to the validation set.
 # About the model
-- resnet50 model
+- ResNet50 model
 - Using the FastAI library to train
 - Using accuracy for the metrics to check the performance of the model
 # Links
